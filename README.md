@@ -60,7 +60,7 @@ Created with a **portfolio-first approach**, it is designed to impress recruiter
 
 > Replace with your installation GIF later:  
 `/assets/installation.gif`
-![Customer-Behavior-Analysis-using-python-power-BI-postgreSQL](cover%20gif.png)
+![Customer-Behavior-Analysis-using-python-power-BI-postgreSQL](assets/cover%20gif%202025=11=24.png)
 ---
 
 <p align="center">
