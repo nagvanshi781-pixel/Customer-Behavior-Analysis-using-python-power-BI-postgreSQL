@@ -60,7 +60,7 @@ Created with a **portfolio-first approach**, it is designed to impress recruiter
 
 > Replace with your installation GIF later:  
 `/assets/installation.gif`
-![Customer Beavior Dashboard](cover%20gif.png)
+![Customer-Behavior-Analysis-using-python-power-BI-postgreSQL](cover%20gif.png)
 ---
 
 <p align="center">
@@ -155,5 +155,6 @@ Created with a **portfolio-first approach**, it is designed to impress recruiter
 git clone https://github.com/yourusername/customer-behavior-analysis.git
 cd customer-behavior-analysis
 <p align="center"> <img src="https://via.placeholder.com/900x3/00FFFF/00FFFF" /> </p>
+
 
 
