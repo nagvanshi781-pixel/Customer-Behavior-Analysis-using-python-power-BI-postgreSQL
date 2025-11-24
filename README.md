@@ -154,4 +154,5 @@ Created with a **portfolio-first approach**, it is designed to impress recruiter
 ```bash
 git clone https://github.com/yourusername/customer-behavior-analysis.git
 cd customer-behavior-analysis
+<p align="center"> <img src="https://via.placeholder.com/900x3/00FFFF/00FFFF" /> </p>
 
