@@ -85,12 +85,13 @@ Visualizations include:
 
 ---
 
-### 🚀 Getting Started
+## 🚀 Getting Started
 
 Clone this repository:
 
-sh
-git clone https://github.com/nagvanshi781-pixel/customer-shopping-behavior-analysis.git
+```bash
+git clone https://github.com/nagvanshi781-pixel/Customer-Behavior-Analysis-using-python-power-BI-postgreSQL.git
+cd Customer-Behavior-Analysis-using-python-power-BI-postgreSQL
 
 
 Install dependencies:
@@ -113,4 +114,5 @@ pip install -r requirements.txt
 ✔ Help create a *GitHub profile README* that appears on your account home page
 
 Would you like me to generate a *requirements.txt* file as well?
+
 
