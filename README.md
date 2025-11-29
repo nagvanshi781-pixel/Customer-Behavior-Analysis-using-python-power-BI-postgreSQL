@@ -42,7 +42,11 @@ Visualizations include:
 * Product rating & demand insights
 * Revenue performance across segments
 * Discount-driven profitability analysis
+### 📊 Power BI Dashboard Preview
 
+This dashboard highlights key insights including customer segmentation, revenue distribution, subscription adoption, and buying patterns.
+
+![Customer Behavior Dashboard](dashboard/images/dashboard_overview.png)
 
 
 ---
@@ -102,6 +106,7 @@ pip install -r requirements.txt
 📧 Email: [nagvanshi781@gmail.com](mailto:nagvanshi781@gmail.com)
 🔗 LinkedIn: [https://www.linkedin.com/in/prince-soni-398b6a225](https://www.linkedin.com/in/prince-soni-398b6a225)
 🐙 GitHub: [https://github.com/nagvanshi781-pixel](https://github.com/nagvanshi781-pixel)
+
 
 
 
