@@ -89,7 +89,6 @@ This dashboard highlights key insights including customer segmentation, revenue 
 
 Clone this repository:
 
-```bash
 git clone https://github.com/nagvanshi781-pixel/Customer-Behavior-Analysis-using-python-power-BI-postgreSQL.git
 cd Customer-Behavior-Analysis-using-python-power-BI-postgreSQL
 
@@ -109,11 +108,8 @@ pip install -r requirements.txt
 🔗 LinkedIn: [https://www.linkedin.com/in/prince-soni-398b6a225](https://www.linkedin.com/in/prince-soni-398b6a225)
 🐙 GitHub: [https://github.com/nagvanshi781-pixel](https://github.com/nagvanshi781-pixel)
 
-✔ Add workflow visual diagrams
-✔ Upload your SQL query files & notebooks to repo
-✔ Help create a *GitHub profile README* that appears on your account home page
 
-Would you like me to generate a *requirements.txt* file as well?
+
 
 
 
