@@ -1,5 +1,5 @@
 
-## 📊 Customer Shopping Behavior Analysis
+# 📊 Customer-Behavior-Analysis-using-python-power-BI-postgreSQL
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -102,6 +102,7 @@ pip install -r requirements.txt
 📧 Email: [nagvanshi781@gmail.com](mailto:nagvanshi781@gmail.com)
 🔗 LinkedIn: [https://www.linkedin.com/in/prince-soni-398b6a225](https://www.linkedin.com/in/prince-soni-398b6a225)
 🐙 GitHub: [https://github.com/nagvanshi781-pixel](https://github.com/nagvanshi781-pixel)
+
 
 
 
