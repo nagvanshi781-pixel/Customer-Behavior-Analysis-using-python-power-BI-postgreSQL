@@ -46,8 +46,8 @@ Visualizations include:
 ### 📊 Power BI Dashboard Preview
 
 This dashboard highlights key insights including customer segmentation, revenue distribution, subscription adoption, and buying patterns.
-
 ![Customer Behavior Dashboard](dashboard/images/dashboard_overview.png)
+
 
 
 ---
@@ -114,6 +114,7 @@ pip install -r requirements.txt
 ✔ Help create a *GitHub profile README* that appears on your account home page
 
 Would you like me to generate a *requirements.txt* file as well?
+
 
 
 
